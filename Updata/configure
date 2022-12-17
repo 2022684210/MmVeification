@@ -9,11 +9,11 @@
 [strDownLoadUrlFreeUid] = 
 [strDownLoadUrlH5] = 
 [strPackageMd5] = 7be927eef8a05893d448e2d4ecbbc8b4
-[strReleaseCode] = 8.5.38-v8-one
+[strReleaseCode] = 8.5.38-v8-one(测试)
 [strTipsButtonText] = 
 [uPackageSize] = 189044478
 [uSvrTs] = 1671263406
 [uType] = 1
-[uVersionCode] = 378001
+[uVersionCode] = 3781
 [useHotPatch] = 0
 [serialVersionUID] = 0
