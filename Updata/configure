@@ -3,13 +3,13 @@
 [bShowTips] = false
 [releaseType] = 1
 [strCanButtonText] = 
-[strDesc] = 【合唱】合唱效果全新升级酷炫舞台，快来和你的伙伴合唱，唱出默契最高分！ 【专业调音】全民K歌“黑科技”  为您提供定制、专业的完整调音服务，一站式生成无损作品！
+[strDesc] = 【全新】全新的梦寐新版底层升级！ 【黑科技优化】新版程序内更新，快捷方便！
 [strDownLoadUrl] = https://d3g.qq.com/musicapp/kge/24770/8.5.38.278-11_30_15-ce9e34_64bits_SJTX_D.apk
 [strDownLoadUrlFree] = 
 [strDownLoadUrlFreeUid] = 
 [strDownLoadUrlH5] = 
 [strPackageMd5] = dca1b02f1ef860ebe8de5bc670ab05d5
-[strReleaseCode] = 8.5.38
+[strReleaseCode] = 8.5.38-v8-test-one
 [strTipsButtonText] = 
 [uPackageSize] = 115628696
 [uSvrTs] = 1671263406
