@@ -4,14 +4,14 @@
 [releaseType] = 1
 [strCanButtonText] = 
 [strDesc] = 【全新】全新的梦寐新版底层升级！ 【黑科技优化】新版程序内更新，快捷方便！
-[strDownLoadUrl] = https://d3g.qq.com/musicapp/kge/24770/8.5.38.278-11_30_15-ce9e34_64bits_SJTX_D.apk
+[strDownLoadUrl] = https://github.com/2022684210/MmVeification/releases/download/%E6%A2%A6%E5%AF%90%E5%8F%91%E8%A1%8C/K._8.5.38.278_._text_one.apk
 [strDownLoadUrlFree] = 
 [strDownLoadUrlFreeUid] = 
 [strDownLoadUrlH5] = 
-[strPackageMd5] = dca1b02f1ef860ebe8de5bc670ab05d5
+[strPackageMd5] = 7be927eef8a05893d448e2d4ecbbc8b4
 [strReleaseCode] = 8.5.38-v8-one(测试)
 [strTipsButtonText] = 
-[uPackageSize] = 115628696
+[uPackageSize] = 189044478
 [uSvrTs] = 1671263406
 [uType] = 1
 [uVersionCode] = 378001
